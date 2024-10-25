@@ -29,4 +29,4 @@ Esta es una aplicación móvil desarrollada con *Ionic*, diseñada para ofrecer 
 ## Tecnologías Utilizadas
 - *Ionic Framework*: Para desarrollar la interfaz móvil.
 - *Angular*: Para gestionar la lógica y los datos en la aplicación.
--
+- Enlace de APK para su descarga: https://drive.google.com/file/d/125HYTpdkeEUOcIihQhh4p-MRpm9ciq_Y/view?usp=sharing
