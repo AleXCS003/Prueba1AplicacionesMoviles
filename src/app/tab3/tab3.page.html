@@ -17,6 +17,7 @@
       <ion-title>Calculadora de Días</ion-title>
     </ion-toolbar>
   </ion-header>
+
   
   <ion-content>
     <ion-item>
@@ -28,14 +29,20 @@
       <ion-label>Fecha de Fin</ion-label>
       <ion-datetime displayFormat="YYYY-MM-DD" [(ngModel)]="endDate"></ion-datetime>
     </ion-item>
-  
-    <ion-button expand="full" (click)="calculateDays()">Calcular Días</ion-button>
-  
-    <ion-card *ngIf="daysDifference !== null">
+    <table>
+      <ion-button expand="full" (click)="calculateDays()">Calcular Días</ion-button>
+    </table>
+
+    <table> <ion-card *ngIf="daysDifference !== null">
       <ion-card-content>
         <p>Días entre las fechas: {{ daysDifference }}</p>
       </ion-card-content>
-    </ion-card>
+    </ion-card></table>
+
+    
+   
+  
+   
   </ion-content>
   
 </ion-content>

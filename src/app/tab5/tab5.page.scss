@@ -1,0 +1,71 @@
+/* Fondo de la página */
+ion-content {
+    --background: #f0f4f8; /* Color de fondo suave */
+    padding: 16px;
+  }
+  
+  /* Estilo del encabezado */
+  ion-header {
+    ion-toolbar {
+      --background: #6200ea; /* Color de fondo del encabezado */
+      --color: #fff; /* Color de texto del encabezado */
+      text-align: center;
+  
+      ion-title {
+        font-weight: bold;
+        font-size: 1.5rem;
+        color: #ffeb3b; /* Color del texto del título */
+      }
+    }
+  }
+  
+  /* Estilo del campo de entrada de texto */
+  ion-item {
+    --background: #ffffff;
+    --border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra alrededor del elemento */
+  
+    ion-label {
+      color: #6200ea; /* Color del texto de la etiqueta */
+      font-weight: bold;
+    }
+  
+    ion-textarea {
+      color: #333; /* Color del texto ingresado */
+    }
+  }
+  
+  /* Botón de guardar */
+  ion-button {
+    --background: #6200ea; /* Color de fondo del botón */
+    --border-radius: 8px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #fff;
+    transition: background 0.3s;
+  
+    &:hover {
+      --background: #3700b3; /* Color más oscuro al pasar el mouse */
+    }
+  }
+  
+  /* Lista de textos guardados */
+  ion-list {
+    margin-top: 20px;
+    padding: 0;
+  
+    ion-item {
+      --background: #ffffff;
+      --border-radius: 8px;
+      margin-bottom: 12px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  
+      ion-label {
+        color: #333;
+        font-weight: bold;
+        font-size: 1rem;
+      }
+    }
+  }
+      
