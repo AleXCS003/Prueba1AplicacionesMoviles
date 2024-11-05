@@ -26,7 +26,22 @@ Esta es una aplicación móvil desarrollada con *Ionic*, diseñada para ofrecer 
 - Al presionar el botón "Enviar", la aplicación calcula las raíces de la ecuación cuadrática y muestra el resultado.
 ![image](https://github.com/user-attachments/assets/fffb33c3-8dfc-4fac-b4e6-4277bac2577d)
 
+### 5. Subir el archivo 
+puedes escribir un texto y almacenar localmente en el dispositivo 
+![image](https://github.com/user-attachments/assets/559b26a7-9b79-4326-8b21-00ceb2c97c5d)
+
+
+### 6, Agregar a la aplicacion estos componentes
+Splash Screen 
+Icono personalizdo
+-Al momento de abrir la aplicacion ,tenemos un Splash Screen de 3 segundos de duracion 
+![image](https://github.com/user-attachments/assets/1dee712a-ebe6-4a7e-bd92-323a37f1773f)
+-El icono personalizado en el menu de aplicaciones en el dispositivo .
+![image](https://github.com/user-attachments/assets/550c11cb-79b1-43c4-94c9-11b9280b0acb)
+
+
 ## Tecnologías Utilizadas
 - *Ionic Framework*: Para desarrollar la interfaz móvil.
 - *Angular*: Para gestionar la lógica y los datos en la aplicación.
 - Enlace de APK para su descarga: https://drive.google.com/file/d/125HYTpdkeEUOcIihQhh4p-MRpm9ciq_Y/view?usp=sharing
+
