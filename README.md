@@ -33,10 +33,18 @@ puedes escribir un texto y almacenar localmente en el dispositivo
 
 ### 6, Agregar a la aplicacion estos componentes
 Splash Screen 
+-
 Icono personalizdo
+--
 -Al momento de abrir la aplicacion ,tenemos un Splash Screen de 3 segundos de duracion 
+
+
+
 ![image](https://github.com/user-attachments/assets/1dee712a-ebe6-4a7e-bd92-323a37f1773f)
+
+-
 -El icono personalizado en el menu de aplicaciones en el dispositivo .
+-
 ![image](https://github.com/user-attachments/assets/550c11cb-79b1-43c4-94c9-11b9280b0acb)
 
 
